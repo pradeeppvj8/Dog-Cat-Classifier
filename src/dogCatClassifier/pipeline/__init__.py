@@ -1,0 +1,1 @@
+from dogCatClassifier.pipeline.data_ingestion_pipeline import DataIngestionPipeline
