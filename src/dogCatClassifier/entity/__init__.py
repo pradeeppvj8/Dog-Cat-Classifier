@@ -1,1 +1,2 @@
-from dogCatClassifier.entity.config_entity import (DataIngestionConfig, PrepareBaseModelConfig)
+from dogCatClassifier.entity.config_entity import (DataIngestionConfig, PrepareBaseModelConfig,
+                                                    PrepareCallbacksConfig)

@@ -1,2 +1,3 @@
 from dogCatClassifier.components.data_ingestion import DataIngestion 
 from dogCatClassifier.components.prepare_base_model import PrepareBaseModel
+from dogCatClassifier.components.prepare_callback import PrepareCallback
