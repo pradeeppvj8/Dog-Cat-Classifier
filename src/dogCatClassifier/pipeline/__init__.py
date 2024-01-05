@@ -1,3 +1,4 @@
 from dogCatClassifier.pipeline.data_ingestion_pipeline import DataIngestionPipeline
 from dogCatClassifier.pipeline.prepare_base_model_pipeline import PrepareBaseModelPipeline
 from dogCatClassifier.pipeline.training_pipeline import ModelTrainingPipeline
+from dogCatClassifier.pipeline.evaluation_pipeline import EvaluationPipeline
